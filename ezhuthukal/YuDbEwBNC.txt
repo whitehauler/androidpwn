@@ -1,0 +1,9 @@
+
+    Command        Description
+    -------        -----------
+    sys            system info/details in brief.
+    netstat        brief network statistics.
+    inet           network configuration.
+    battery        show battery stats.
+    activity       recent/active activities.
+    back           main menu.
