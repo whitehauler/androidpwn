@@ -155,7 +155,8 @@ def metas():
         print('launching..')
         os.system('msfconsole')
     else:
-        quit()
+        pass
+
 
 #systools()
 #screen_casting()
