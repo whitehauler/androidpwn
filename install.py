@@ -1,6 +1,6 @@
 import os
 import sys
 
-print('installing FUDandroidHacking ........')
+print('installing Features ........')
 
 os.system('sudo apt-get install adb')
